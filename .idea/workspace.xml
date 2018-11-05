@@ -78,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/page/test.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1422">
-              <caret line="148" column="47" lean-forward="true" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
+              <caret line="148" column="47" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
               <folding>
                 <element signature="e#6544#6550#1#HTML" expanded="true" />
               </folding>
@@ -189,7 +189,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -270,16 +270,15 @@
       <workItem from="1539631707112" duration="635000" />
       <workItem from="1539843707189" duration="2974000" />
       <workItem from="1539961743959" duration="11306000" />
-      <workItem from="1541408798447" duration="980000" />
+      <workItem from="1541408798447" duration="2339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244200000" />
+    <option name="totallyTimeSpent" value="245489000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1603631" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -290,7 +289,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32954547" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -654,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/page/test.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1422">
-          <caret line="148" column="47" lean-forward="true" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
+          <caret line="148" column="47" selection-start-line="148" selection-start-column="47" selection-end-line="148" selection-end-column="47" />
           <folding>
             <element signature="e#6544#6550#1#HTML" expanded="true" />
           </folding>
